@@ -1114,3 +1114,37 @@ background:#C89B3C;
 transform:translateY(-5px);
 
 }
+...
+.contact-form button:hover{
+
+background:#112B45;
+
+}
+
+/*==========================
+FOOTER
+==========================*/
+
+.footer{
+
+background:#0b1f33;
+
+color:white;
+
+padding:70px 0 30px;
+
+}
+
+.footer-grid{
+
+display:grid;
+
+grid-template-columns:2fr 1fr 1fr;
+
+gap:50px;
+
+margin-bottom:40px;
+
+}
+
+...
